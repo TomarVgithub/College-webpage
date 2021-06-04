@@ -1,0 +1,158 @@
+.page
+ {
+   
+   width:1290px;
+   height:auto;
+   border-style:groove;
+   
+
+ }
+
+.timespart
+  {
+    
+    width:1287px;
+    height:20px;
+    background-color:lightgrey;
+      border-style:groove;
+ 
+  }
+
+.timespart a
+ {
+   
+   text-decoration:none;
+}
+
+.headerpart
+ {
+  margin-top:5px;
+  width:1287px;
+  height:120px;
+  border-style:groove;
+  background-image:url('images/logo.PNG');
+  background-repeat:no-repeat;
+  
+
+}
+
+.linkspart
+  {
+    width:1287px;
+    height:20px;
+    background-color:rgb(12,100,198);
+    margin-top:10px;
+      border-style:groove;
+ 
+  }
+.linkspart a
+ {
+   color:rgb(245,246,251);
+   text-decoration:none;
+ }
+
+ .linkspart a:hover
+  {
+    background-color:rgb(245,246,251);
+    color:rgb(12,100,198);
+   }
+
+ .bodypart
+  {
+    width:1287px;
+    height:552px;
+    border-style:groove;
+    margin-top:10px;
+  }
+
+ .bodypart .imagepart
+  {
+    background-color:black;
+    width:510px;
+    height:350px;
+    margin-top:5px;
+    margin-left:2px;
+     border-style:groove;
+     background-image:url('images/myFile.GIF');
+     background-repeat:no-repeat;
+     display:inline-block;
+  }
+ .bodypart .newspart
+   {
+     background-color:lightblue;
+     width:240px;
+     height:540px;
+     margin-left:5px;
+     margin-right:5px;
+     margin-bottom:5px;
+     margin-top:5px;
+     border-style:groove;
+     float:right;
+   }
+.bodypart .Happeningspart
+   {
+     width:230px;
+     height:540px;
+     margin-top:5px;
+     border-style:groove;
+     float:right;
+   }
+ .bodypart .newspart h2
+ {
+   color:green;
+   
+ }
+
+ .bodypart .noticepart
+   {
+     background-color:lightgrey;
+     width:240px;
+     height:540px;
+     margin-left:5px;
+     margin-top:5px;
+     border-style:groove;
+     float:right;
+   }
+ .bodypart .noticepart h2
+   {
+    color:blue;
+   }
+
+.bodypart .newspart .news
+  {
+    width:240px;
+    height:450px;
+  }
+.bodypart .newspart .news h4
+  {
+   color:blue; 
+  
+  }
+
+.bodypart .noticepart .news
+  {
+    width:235px;
+    height:440px;
+    border-style:groove;
+  
+  }
+.bodypart .noticepart .news h4
+  {
+   color:green; 
+  
+  }
+
+
+
+   
+ 
+
+
+
+
+
+     
+   
+
+
+ 
