@@ -1,2 +1,4 @@
 # College-webpage
-Advanced classifier using machine learning : detection of credit card and debit card fraud transactions with majority voting of data transactions using machine learning. A real data set of credit card transactions from a financial institution is used. Exposure : Python , NB, SVM and DL models. Survey paper , implementation of code . Tools & technologies : Anaconda , Jupyter Notebook Future Work : model of the fixtures of the data to other applications.
+navigation using a hybrid approach. robust search functionality. mobile responsiveness.
+CTAs. 
+languages : html (77%) , css(23%). tools and technologies : Notepad. work completion : 80%
