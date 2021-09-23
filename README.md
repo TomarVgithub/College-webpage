@@ -1,4 +1,4 @@
-# College-webpage
+# College-webpage-design
 navigation using a hybrid approach. 
 robust search functionality.
 mobile responsiveness.
